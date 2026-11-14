@@ -1,0 +1,30 @@
+{
+  "video": "Albion Online Client 2026-11-14 19-13-46.mp4",
+  "size": [
+    1920,
+    1080
+  ],
+  "video_fps": 22.08,
+  "sample_fps": 6.0,
+  "frames_analyzed": 302,
+  "minigames": [
+    {
+      "start_s": 20.16,
+      "end_s": 26.441,
+      "peak_progress": 0.909,
+      "reward_confirmed": true
+    },
+    {
+      "start_s": 51.716,
+      "end_s": 57.964,
+      "peak_progress": 0.917,
+      "reward_confirmed": true
+    }
+  ],
+  "reward_events_sec": [
+    26.991,
+    58.514
+  ],
+  "confirmed_cycles": 2,
+  "caution": "Offline visual analysis. It does not test mouse control or the live client."
+}
